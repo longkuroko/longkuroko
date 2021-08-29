@@ -8,7 +8,7 @@ Hi guys
 
 <div align="center">
   <a href="https://github.com/longkuroko">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=F73D3D&center=true&lines=I'm a developer;Also+a+self-taught;&width=450&height=45" alt="quochung profile"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?color=F73D3D&center=true&lines=I'm a developer;Also+a+self-taught;&width=450&height=45" alt="long profile"/>
   </a>
 </div>
 
@@ -21,7 +21,7 @@ Hi guys
 
 ### Frontend  
 <div display align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 </div>

@@ -3,14 +3,9 @@
 <h1 align="center">
 Hi guys
 </h1>  
-
-<br/>  
-
-<div align="center">
-  <a href="https://github.com/longkuroko">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=F73D3D&center=true&lines=I'm a developer;Also+a+self-taught;&width=450&height=45" alt="long profile"/>
-  </a>
-</div>
+ <h3>
+  Welcome to my world. I'm a developer in HCM, Vietnam. 
+  </h3>
 
 <br/>  
 

@@ -3,8 +3,8 @@
 <h1 align="center">
 Hi guys
 </h1>  
- <h3>
-  Welcome to my world. I'm a developer in HCM, Vietnam. 
+ <h3 align="center>
+  Always be yourself and keep learning forever 
   </h3>
 
 <br/>  
